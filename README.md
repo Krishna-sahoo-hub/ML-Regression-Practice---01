@@ -197,8 +197,6 @@ ML-Regression-Practice/
 ├── car_price_multiple.csv
 ├── laptop_price_gbr.csv
 │
-├── requirements.txt
-│
 └── README.md
 ```
 
